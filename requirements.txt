@@ -1,0 +1,5 @@
+streamlit
+facebook-business
+gspread
+oauth2client
+pandas
